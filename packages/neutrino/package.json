@@ -1,6 +1,6 @@
 {
   "name": "@offgrid/neutrino",
-  "version": "9.0.0-0",
+  "version": "9.0.0-1",
   "description": "Create and build JS applications with managed configurations",
   "main": "index.js",
   "bin": {
@@ -28,7 +28,7 @@
     "deepmerge": "^2.1.1",
     "is-plain-object": "^2.0.4",
     "lodash.clonedeep": "^4.5.0",
-    "webpack-chain": "OffGridNetworks/webpack-chain#patch-resolve-plugins",
+    "webpack-chain": "OffGridNetworks/webpack-chain#develop",
     "yargs": "^12.0.1"
   }
 }
